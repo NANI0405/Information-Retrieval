@@ -1,0 +1,52 @@
+[
+  { "query": "befroe", "corrected": "before" },
+  { "query": "absnce", "corrected": "absence" },
+  { "query": "abaility", "corrected": "ability" },
+  { "query": "akoustic", "corrected": "acoustic" },
+  { "query": "axelerate", "corrected": "accelerate" },
+  { "query": "abzorption", "corrected": "absorption" },
+  { "query": "aeroelasttic", "corrected": "aeroelastic" },
+  { "query": "accepatble", "corrected": "acceptable" },
+  {
+    "query": "hihg spead aerodynmaics",
+    "corrected": "high speed aerodynamics"
+  },
+  { "query": "acclartion", "corrected": "acceleration" },
+  { "query": "accomoedation", "corrected": "accommodation" },
+  { "query": "adjsutment", "corrected": "adjustment" },
+  { "query": "aluminuim", "corrected": "aluminum" },
+  { "query": "anlogous", "corrected": "analogous" },
+  { "query": "approximatley", "corrected": "approximately" },
+  { "query": "arbitrrily", "corrected": "arbitrarily" },
+  { "query": "artficial", "corrected": "artificial" },
+  { "query": "asympttotic", "corrected": "asymptotic" },
+  { "query": "bureacratic", "corrected": "bureaucratic" },
+  { "query": "caluclation", "corrected": "calculation" },
+  { "query": "charactaristic", "corrected": "characteristic" },
+  { "query": "circumferentail", "corrected": "circumferential" },
+  { "query": "coefficent", "corrected": "coefficient" },
+  { "query": "compesation", "corrected": "compensation" },
+  { "query": "conditon", "corrected": "condition" },
+  { "query": "confluenttial", "corrected": "confluential" },
+  { "query": "confrimation", "corrected": "confirmation" },
+  { "query": "consistant", "corrected": "consistent" },
+  { "query": "critcal", "corrected": "critical" },
+  { "query": "decceleration", "corrected": "deceleration" },
+  { "query": "defficiency", "corrected": "deficiency" },
+  { "query": "demostrate", "corrected": "demonstrate" },
+  { "query": "differetiation", "corrected": "differentiation" },
+  { "query": "discontinuty", "corrected": "discontinuity" },
+  { "query": "distorion", "corrected": "distortion" },
+  {
+    "query": "computationl approach to flow instabilities",
+    "corrected": "computational approach to flow instabilities"
+  },
+  {
+    "query": "conservtion laws in compressible fluid dynamics",
+    "corrected": "conservation laws in compressible fluid dynamics"
+  },
+  {
+    "query": "advanced aerodynmics stability criteria",
+    "corrected": "advanced aerodynamics stability criteria"
+  }
+]
