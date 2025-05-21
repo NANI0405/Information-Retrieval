@@ -1,0 +1,202 @@
+[
+  {
+    "query": "aerodynamics AND wing AND slipstream",
+    "description": "Retrieve documents discussing aerodynamics of a wing in a slipstream."
+  },
+  {
+    "query": "shear flow AND flat plate AND incompressible fluid",
+    "description": "Retrieve documents related to simple shear flow past a flat plate in an incompressible fluid."
+  },
+  {
+    "query": "boundary layer AND shear flow AND flat plate",
+    "description": "Retrieve documents focusing on boundary layer in shear flow past a flat plate."
+  },
+  {
+    "query": "heat conduction AND transient AND double-layer",
+    "description": "Retrieve documents discussing transient heat conduction in a double-layer slab."
+  },
+  {
+    "query": "multilayer AND heat flow AND transient",
+    "description": "Retrieve documents on transient heat flow in multilayer slabs."
+  },
+  {
+    "query": "roughness AND boundary layer AND supersonic",
+    "description": "Retrieve documents discussing the effect of roughness on boundary layer transition at supersonic speeds."
+  },
+  {
+    "query": "two-dimensional OR three-dimensional AND roughness",
+    "description": "Retrieve documents about measurements of roughness effects in boundary layer transition."
+  },
+  {
+    "query": "transition AND skin friction AND Mach 5.8",
+    "description": "Retrieve documents related to transition studies and skin friction measurements at Mach 5.8."
+  },
+  {
+    "query": "impact tube AND low pressure",
+    "description": "Retrieve documents discussing the theory of the impact tube at low pressure."
+  },
+  {
+    "query": "compressible flow AND mixing AND axial pressure",
+    "description": "Retrieve documents covering compressible flow and axial pressure effects in mixing."
+  },
+  {
+    "query": "aeroelasticity AND high-speed flight",
+    "description": "Retrieve documents discussing structural and aeroelastic considerations in high-speed flight."
+  },
+  {
+    "query": "heated wings AND similarity laws",
+    "description": "Retrieve documents discussing similarity laws for stressing heated wings."
+  },
+  {
+    "query": "piston theory AND aerodynamic",
+    "description": "Retrieve documents about the application of piston theory in aerodynamics."
+  },
+  {
+    "query": "flutter AND buckled plate",
+    "description": "Retrieve documents discussing panel flutter in a buckled plate."
+  },
+  {
+    "query": "compressible AND turbulent boundary layer",
+    "description": "Retrieve documents discussing transformation of compressible turbulent boundary layers."
+  },
+  {
+    "query": "eddy viscosity AND compressible mixing",
+    "description": "Retrieve documents discussing eddy viscosity in compressible mixing flows."
+  },
+  {
+    "query": "diffuser AND radial compressor",
+    "description": "Retrieve documents discussing flow fields in the diffuser of a radial compressor."
+  },
+  {
+    "query": "pressure distribution AND conical bodies AND hypersonic",
+    "description": "Retrieve documents covering pressure distributions on conical bodies in hypersonic flows."
+  },
+  {
+    "query": "Newtonian theory AND blunt-nosed",
+    "description": "Retrieve documents discussing generalized Newtonian theory applied to blunt-nosed bodies."
+  },
+  {
+    "query": "heat transfer AND slip flow",
+    "description": "Retrieve documents discussing heat transfer in slip flow."
+  },
+  {
+    "query": "boundary layer AND heat transfer AND cylinder",
+    "description": "Retrieve documents about skin-friction and heat transfer in laminar boundary layers on cylinders."
+  },
+  {
+    "query": "stagnation point AND heat transfer",
+    "description": "Retrieve documents related to stagnation point heat transfer in dissociated air."
+  },
+  {
+    "query": "explosion solution AND hypersonic flow",
+    "description": "Retrieve documents discussing the explosion solution of Sedov applied to hypersonic flow."
+  },
+  {
+    "query": "thermal stress AND aerodynamic heating",
+    "description": "Retrieve documents discussing transient thermal stress distribution due to aerodynamic heating."
+  },
+  {
+    "query": "thermoelastic AND wing structure",
+    "description": "Retrieve documents discussing photo-thermoelastic investigation of thermal stresses in wing structures."
+  },
+  {
+    "query": "supersonic wing panels AND thermal buckling",
+    "description": "Retrieve documents discussing thermal buckling of supersonic wing panels."
+  },
+  {
+    "query": "missile AND atmospheric descent",
+    "description": "Retrieve documents discussing the dynamic motion of missiles descending through the atmosphere."
+  },
+  {
+    "query": "magneto-aerodynamics",
+    "description": "Retrieve documents discussing prospects for magneto-aerodynamics."
+  },
+  {
+    "query": "magneto-gasdynamic AND constant temperature",
+    "description": "Retrieve documents covering constant-temperature magneto-gasdynamic channel flow."
+  },
+  {
+    "query": "stagnation point AND hypersonic flow",
+    "description": "Retrieve documents discussing stagnation points of blunt bodies in hypersonic flow."
+  },
+  {
+    "query": "supersonic flow AND blunt bodies",
+    "description": "Retrieve documents discussing supersonic flow around blunt bodies."
+  },
+  {
+    "query": "hypersonic heat transfer AND surface phenomena",
+    "description": "Retrieve documents covering new techniques for hypersonic heat transfer and surface phenomena."
+  },
+  {
+    "query": "mixed subsonic AND supersonic pressure",
+    "description": "Retrieve documents discussing prediction of mixed subsonic and supersonic pressure distributions."
+  },
+  {
+    "query": "sonic stream AND airfoil",
+    "description": "Retrieve documents about flow of a sonic stream past an airfoil surface."
+  },
+  {
+    "query": "boundary layer transition AND supersonic speeds",
+    "description": "Retrieve documents covering experiments on boundary layer transition at supersonic speeds."
+  },
+  {
+    "query": "gyroscopic effect AND propeller vibration",
+    "description": "Retrieve documents discussing gyroscopic effects of propellers on wing vibration modes."
+  },
+  {
+    "query": "roughness AND boundary layer transition",
+    "description": "Retrieve documents covering the relation between wall temperature and roughness effects on transition."
+  },
+  {
+    "query": "cone pressure AND Mach 6.85",
+    "description": "Retrieve documents discussing tip-bluntness effects on cone pressures at Mach 6.85."
+  },
+  {
+    "query": "separated flows AND heat transfer",
+    "description": "Retrieve documents about investigation of separated flows and heat transfer."
+  },
+  {
+    "query": "large matrices AND inversion",
+    "description": "Retrieve documents discussing the inversion of large matrices."
+  },
+  {
+    "query": "low-aspect-ratio aircraft",
+    "description": "Retrieve documents discussing analysis of low-aspect-ratio aircraft structures."
+  },
+  {
+    "query": "supersonic flow AND circular cone",
+    "description": "Retrieve documents discussing supersonic flow at the surface of a circular cone."
+  },
+  {
+    "query": "temperature profiles AND compressible boundary layer",
+    "description": "Retrieve documents discussing temperature and velocity profiles in compressible boundary layers."
+  },
+  {
+    "query": "laminar boundary layer AND compressible fluids",
+    "description": "Retrieve documents covering investigation of laminar boundary layers in compressible fluids."
+  },
+  {
+    "query": "aerodynamics AND (slipstream OR boundary layer)",
+    "description": "Retrieve documents discussing aerodynamics related to slipstream or boundary layers."
+  },
+  {
+    "query": "shear flow AND NOT (compressible OR supersonic)",
+    "description": "Retrieve documents discussing shear flow but excluding those focused on compressible or supersonic flow."
+  },
+  {
+    "query": "(heat transfer OR thermal stress) AND wing",
+    "description": "Retrieve documents discussing either heat transfer or thermal stress in relation to wings."
+  },
+  {
+    "query": "boundary layer AND NOT (incompressible OR laminar)",
+    "description": "Retrieve documents discussing boundary layers but excluding those specifically about incompressible or laminar flows."
+  },
+  {
+    "query": "(compressible flow AND hypersonic) OR (boundary layer AND turbulence)",
+    "description": "Retrieve documents that discuss either compressible hypersonic flow or turbulence in boundary layers."
+  },
+  {
+    "query": "transition AND NOT (supersonic OR hypersonic)",
+    "description": "Retrieve documents discussing transition but excluding those focused on supersonic or hypersonic speeds."
+  }
+]
